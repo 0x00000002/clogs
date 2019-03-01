@@ -1,0 +1,19 @@
+{
+  "name": "clogs",
+  "version": "1.0.0",
+  "description": "console.log with variations",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "clogs"
+  },
+  "keywords": [
+    "console",
+    "log"
+  ],
+  "author": "Alex Tikonoff",
+  "license": "ISC"
+}
